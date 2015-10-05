@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-08-08 22:19:54
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.24
+WORDPRESS:	4.2.4
+PHP INFO:	5.5.19 | SAPI: apache2handler
+SERVER:		Apache/2.4.10 (Win32) OpenSSL/1.0.1i PHP/5.5.19 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 29.5MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:29 | filtered:0 | create:29 
+FILTERED: [] 
+SQL CREATED: 20150808_frogo_55c6807352aac4691150808221931_database.sql 
+SQL FILE SIZE: 1.48MB 
+SQL FILE TIME: 2015-08-08 22:19:55 
+SQL RUNTIME: 0.37 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/frogo 
+ARCHIVE FILE: 20150808_frogo_55c6807352aac4691150808221931_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	46.54MB 
+STATS:	Dirs 385 | Files 3,278 
+SQL ADDED: 20150808_frogo_55c6807352aac4691150808221931_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3663
+    [filename] => C:\xampp\htdocs\frogo\wp-snapshots\tmp\20150808_frogo_55c6807352aac4691150808221931_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 18.85MB 
+ARCHIVE RUNTIME: 6.08 sec. 
+MEMORY STACK: 30.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/xampp/htdocs/frogo/wp-snapshots/tmp/20150808_frogo_55c6807352aac4691150808221931_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.48MB 
+Installer File: 317.69KB 
+Archive File: 18.85MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 8.29 sec.
+PEAK PHP MEMORY USED: 33MB
+DONE PROCESSING => 20150808_frogo 2015-08-08 22:20:03
+ 
