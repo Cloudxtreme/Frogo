@@ -2148,3 +2148,6 @@ div.float-left {
     div.float-left {
       width: 96%;
       float: none; } }
+
+div.clear-both {
+  clear: both; }
